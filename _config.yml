@@ -25,13 +25,7 @@ projects:
   exclude:
     forks: false
     projects:
-    - yinyue
-    - cosmos-blog
-    - GamSpot
-    - en-post-zh
-    - welcome-2018-mobile
-    - data-structures-and-algorithms
-    - reward-bms
+      # - your projects 
 
 # social_media:
   # behance: your_username
