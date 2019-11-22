@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -23,9 +23,15 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+    - yinyue
+    - cosmos-blog
+    - GamSpot
+    - en-post-zh
+    - welcome-2018-mobile
+    - data-structures-and-algorithms
+    - reward-bms
 
 # social_media:
   # behance: your_username
